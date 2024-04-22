@@ -6,7 +6,7 @@ The current state is an initial prototype built by
 David Sehnal ([@dsehnal](https://github.com/dsehnal))
 and
 Alister Burt ([@alisterburt](https://github.com/alisterburt))
-at a scientific workshop *Agreeing Community Standards for cryoET Data Preservation and Reuse*
+at a scientific workshop called *Agreeing Community Standards for cryoET Data Preservation and Reuse* in April 2024
 
 <p align="center" width="100%">
     <img 
