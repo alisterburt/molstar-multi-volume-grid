@@ -10,8 +10,8 @@ function App() {
 }
 
 // where should this be initialised?
-const entityGrid = new EntityGrid();
-entityGrid.init();
+const entityGrid: EntityGrid = new EntityGrid(6);
+entityGrid.init(6);
 
 function EntityGridView() {
   const parent = useRef<any>();
